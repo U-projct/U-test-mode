@@ -1,0 +1,185 @@
+channelId=129279&uid=14505&deviceMac=00:1A:79:A7:53:75
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(opx)
+http://opplex.tv:8080/3116580700/0700/350972
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(opx2)
+http://opplex.tv:8080/live/starmpk/mpk1234/350972.ts
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(VIP)
+http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34327
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR__(xtv3)
+http://xtv.ooo:8080/live/Raza335/3355141450/350972.ts
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR__(xtv4)
+http://xtv.ooo:8080/owais1/12345/350972
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR__(xtv5)
+http://xtv.ooo:8080/live/Irfan36368/Irfan64689/350972.ts
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR__(xtv6)
+http://xtv.ooo:8080/live/jk8010801099/jk8010801099/350972.ts
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR__x
+http://xtv.ooo:8080/live/35588981/18988553/350972.ts
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD_(xtv1)
+http://xtv.ooo:8080/0966717777/0966717777/350972
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD_(xtv2)
+http://xtv.ooo:8080/live/827281020/827292929/350972.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",Indosiar|xtv_~
+http://xtv.ooo:8080/359052742/470428329/350972
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",Indosiar.(indihome)
+https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(ktv)
+http://ktv.im:8080/live/kk56712/kk12345/101131.ts
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(ktv2)
+http://ktv.im:8080/live/fullpack12months015/ys87rLzzLE/101131.ts
+
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax", INDOSIAR.(VIDIO)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
+https://kametv.my.id/pdx/play.m3u8?id=205
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax", INDOSIAR.mpd.(VIDIO)ott.nav
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.39.12
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d1c52f71333f0651f9b7971eba4d6d7:5394d82a0d04a629f95b83ce6612973b
+https://kametv.my.id/pdx/play.mpd?id=205
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
+#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",SUKAN_RTM_dec=native🇲🇾
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
+#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",RTB_SUKMA.INDERA
+https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist_b608000_sleng.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",RTB_ANEKA
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b608000_sleng.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",RealMadrid tv
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",MUtv
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",sportstv 
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",StrongmanChampionLeague
+https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",WWE.network
+https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
+
+
+logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@PREMIUM✓SPORTS", DubaiSports 2(AR)	
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@PREMIUM✓SPORTS", DubaiSports 3(AR)	
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@PREMIUM✓SPORTS", BandSports(braz)	
+https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@PREMIUM✓SPORTS", RealMadrid (ENG)	
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@PREMIUM✓SPORTS", RealMadrid (ESP)	
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@PREMIUM✓SPORTS", MUTV	
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@PREMIUM✓SPORTS", Sport enFrance	
+https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@PREMIUM✓SPORTS", Olympics SkyOpen	
+https://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@PREMIUM✓SPORTS",HUB PREMIER FHD(Events Only)
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/148158.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@PREMIUM✓SPORTS",EuroSport HD.1_usa 
+http://185.189.225.157/EuroSport1/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@PREMIUM✓SPORTS",EuroSport HD.2_usa
+http://185.189.225.157/EuroSport2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5nm4Gt/irbvarzesh.png" group-title="ShareExt@PREMIUM✓SPORTS", IRIB VARZESH 🇮🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ncdn.telewebion.com/varzesh/live/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/jf7QwkY/vijuplusport.png" group-title="ShareExt@PREMIUM✓SPORTS", Viju+ Sport 🇦🇿
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o7/viasatsport/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/6sPvZmS/wsport.png" group-title="ShareExt@PREMIUM✓SPORTS", W-SPORT
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h26/S4/mnf.m3u8
+
+
+
+
+
+SPORTS",MOJI_(xtv)
+http://xtv.ooo:8080/live/71891100/66181910/350997.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS",MNCTV_(xtv)
+http://xtv.ooo:8080/live/71891100/66181910/350996.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS",INDOSIAR_(xtv)
+http://xtv.ooo:8080/live/71891100/66181910/350972.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS",INEWS_(xtv)
+http://xtv.ooo:8080/live/71891100/66181910/350973.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS",GTV_(xtv)
+http://xtv.ooo:8080/live/71891100/66181910/350954.ts
+#EXTINF:-1 group-title="SHAREEXT@INDONESIA ➾  SPORTS" tvg-logo="http://www.dens.tv/images/channel-logo/10.jpg" INDOSIAR~xtv.2
+http://xtv.ooo:8080/live/83212539/43153928/350972.ts
+#EXTINF:-1 group-title="SHAREEXT@INDONESIA ➾  SPORTS" tvg-logo="http://www.dens.tv/images/channel-logo/9.jpg", SCTV~dens
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64
+
+
+
+logo="https://watchindia.net/images/channels/sports/Sony_Ten_5_HD.png" tvg-name="Sony Ten 5 HD" group-title="SHAREEXT@India ➾ Sports",Sony Ten 5 HD_w
+http://watchindia.net:8880/live/80817/80817/2663.ts
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_1_HD.png" tvg-name="Star Sports Select 1 HD" group-title="SHAREEXT@India ➾ Sports",Star Sports Select 1 HD_w
+http://watchindia.net:8880/live/80817/80817/1070.ts
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_2_HD.png" tvg-name="Star Sports Select 2 HD" group-title="SHAREEXT@India ➾ Sports",Star Sports Select 2 HD_w
+http://watchindia.net:8880/live/80817/80817/1071.ts
+
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.imgur.com/MbTpnwO.png" group-title="SHAREEXT@India ➾ Sports",SONY SPORTS TEN 1_* 
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/154.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LJGok7x.png" group-title="SHAREEXT@India ➾ Sports",SONY SPORTS TEN 2_*
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/31314.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TWNbDTu.png" group-title="SHAREEXT@India ➾ Sports",SONY SPORTS TEN 3_*
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/146.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TqTashc.png" group-title="SHAREEXT@India ➾ Sports",SONY SPORTS TEN 4_*
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YEH5jdY.png" group-title="SHAREEXT@India ➾ Sports",SONY SPORTS TEN 5_*
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.ts
+
+
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@THAILAND ➾ Sports", TRUE.PREMIER.1 (php)
+https://zeestb.cdn77.icu/love4all.php?id=186574&extension=ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@THAILAND ➾ Sports", TRUE.PREMIER.2 (php)
+https://zeestb.cdn77.icu/love4all.php?id=186576&extension=ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@THAILAND ➾ Sports", PPTV.HD (php)
+https://zeestb.cdn77.icu/love4all.php?id=186592&extension=ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@THAILAND ➾ Sports", TRUE.SPORTS.1 (php)
+https://zeestb.cdn77.icu/love4all.php?id=186604&extension=ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@THAILAND ➾ Sports", TRUE.SPORTS.2 (php)
+https://zeestb.cdn77.icu/love4all.php?id=186594&extension=ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@THAILAND ➾ Sports", TRUE.SPORTS.3 (php)
+https://zeestb.cdn77.icu/love4all.php?id=186602&extension=ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@THAILAND ➾ Sports", TRUE.SPORTS.5 (php)
+https://zeestb.cdn77.icu/love4all.php?id=186596&extension=ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@THAILAND ➾ Sports", TRUE.SPORTS.7 (php)
+https://zeestb.cdn77.icu/love4all.php?id=186598&extension=ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@THAILAND ➾ Sports", FIGHT.SPORTS (php)
+https://zeestb.cdn77.icu/love4all.php?id=186608&extension=ts
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@THAILAND ➾ Sports",ASTRO SUPERSPORTS 1 FHD MY
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/18623
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@THAILAND ➾ Sports",ASTRO SUPERSPORTS 2 FHD MY
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/18622
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@THAILAND ➾ Sports",ASTRO SUPERSPORTS 3 FHD MY
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/18621
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@THAILAND ➾ Sports",ASTRO SUPERSPORTS 4 FHD MY
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/18620
+
+
+
+t.m3u8
+#EXTINF:-1 tvg-id="JogjaIstimewaTV.id" tvg-logo="https://i.ibb.co/3sPBv79/Jogja-Istimewa-TV.png" group-title="SHAREEXT@TEVE_DAERAH",Jogja Istimewa TV 
+http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B4ftq59/TV-TABALONG.png" group-title="SHAREEXT@TEVE_DAERAH",TV TABALONG
+https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/chunklist_w1395725734.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M1V7Bkp/Banten-TV.png" group-title="SHAREEXT@TEVE_DAERAH",Banten TV 
+https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
+#EXTINF:-1 group-title="SHAREEXT@TEVE_DAERAH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Surabaya_TV_%282017%29.png",Surabaya TV
+https://e.siar.us/live/surabayatv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hZ1cpnF/Garuda-TV.png" group-title="SHAREEXT@TEVE_DAERAH",Garuda TV
+https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SHAREEXT@TEVE_DAERAH" tvg-logo="https://i.ibb.co/tQXPctp/Sakti-TV.png",Sakti TV
+https://saktitv.siar.us/saktitv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y5m9CzC/Logo-Timor-TV.png" group-title="SHAREEXT@TEVE_DAERAH",Timor TV
+https://63b2dc7196c38.streamlock.net:1937/timortv/myStream/chunklist_w689544014.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/g4GgKMs/Bungo-TV.png" group-title="SHAREEXT@TEVE_DAERAH",Bungo TV
+https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
+
+
+
