@@ -1869,56 +1869,6 @@ https://fw4free.inwstream.com/fw4free/sport3.stream/playlist.m3u8
 
 
 
-
-#REFRESH="1"
-#EXTINF:-10.0 tvg-id="" tvg-logo="https://i.ibb.co.com/dbRJFB3/mlive1.png",⭐M LIVE 1 🇸🇬⭐
-#EXTGRP:🎬LIVE TV ID💵RP.10RB💵|HD+|UHD|FHD|2K|4K|8K|💳 ⭐VIP⭐
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
-
-#REFRESH="1"
-#EXTINF:-10.0 tvg-id="" tvg-logo="https://i.ibb.co.com/58c6bft/mliveplus1.png",⭐M LIVE+ 1 🇸🇬⭐
-#EXTGRP:🎬LIVE TV ID💵RP.10RB💵|HD+|UHD|FHD|2K|4K|8K|💳 ⭐VIP⭐
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://tglmp04.akamaized.net/out/v1/88f6a7022fd54e759ee6d09f5117ab62/manifest.mpd
-
-#REFRESH="1"
-#EXTINF:-10.0 tvg-id="" tvg-logo="https://i.ibb.co.com/9GmV2fF/mlive2.png",⭐M LIVE 2 🇸🇬⭐
-#EXTGRP:🎬LIVE TV ID💵RP.10RB💵|HD+|UHD|FHD|2K|4K|8K|💳 ⭐VIP⭐
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
-https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
-
-#REFRESH="1"
-#EXTINF:-10.0 tvg-id="" tvg-logo="https://i.ibb.co.com/3FhLthP/mlive5.png",⭐M LIVE 5 🇸🇬⭐
-#EXTGRP:🎬LIVE TV ID💵RP.10RB💵|HD+|UHD|FHD|2K|4K|8K|💳 ⭐VIP⭐
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cdb834a4f2fd413a8e50d1a7170701d2:3d6ae85b34e8aac7488c780cea215306
-https://tglmp04.akamaized.net/out/v1/6b351c6bf46a43d998e3f86b69cbce4f/manifest.mpd
-
-#REFRESH="1"
-#EXTINF:-10.0 tvg-id="" tvg-logo="https://i.ibb.co.com/xSQQ81r/mlive6.png",⭐M LIVE 6 🇸🇬⭐
-#EXTGRP:🎬LIVE TV ID💵RP.10RB💵|HD+|UHD|FHD|2K|4K|8K|💳 ⭐VIP⭐
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cdf0001f693942da990fe81afa3eb0cd:6b8d4bc58615439954851eeda771f417
-https://tglmp02.akamaized.net/out/v1/6e5a888d4bf847a2be521c55f7bfd08c/manifest.mpd
-
-#REFRESH="1"
-#EXTINF:-10.0 tvg-id="" tvg-logo="https://i.ibb.co.com/J7nxg09/mwspl01.png",⭐M LIVE SPL 01 🇸🇬⭐
-#EXTGRP:🎬LIVE TV ID💵RP.10RB💵|HD+|UHD|FHD|2K|4K|8K|💳 ⭐VIP⭐
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f5158194cc4044e699d0df01772f2212:072e611a383a2d1e3d4d8ea19e016a71
-https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
-
-#REFRESH="1"
-#EXTINF:-10.0 tvg-id="" tvg-logo="https://i.ibb.co.com/vHM6GF8/mwspl02.png",⭐M LIVE SPL 02 🇸🇬⭐
-#EXTGRP:🎬LIVE TV ID💵RP.10RB💵|HD+|UHD|FHD|2K|4K|8K|💳 ⭐VIP⭐
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=deb6c84db4dc4578bdaa61e965b3424c:b2e6fff24da67654af548fe61aa6bd5a
-https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
-
-
-
 #REFRESH="1"
 #EXTINF:-10.0 tvg-id="unifi" group-title="🎬SPORTS💵RP.10RB-20RB💵|HD+|UHD|FHD|2K|4K|8K|💳 ⭐VIP⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/UnifiSports2023.png",⭐Unifi Sports 1⭐
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
